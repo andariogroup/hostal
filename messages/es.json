@@ -1,0 +1,449 @@
+{
+  "common": {
+    "hostalName": "Hostal Buritaca",
+    "bookNow": "Reservar Ahora",
+    "learnMore": "Saber más",
+    "viewDetails": "Ver Detalles",
+    "continue": "Continuar",
+    "back": "Atrás",
+    "close": "Cerrar",
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito"
+  },
+  "nav": {
+    "home": "Inicio",
+    "accommodation": "Alojamiento",
+    "experiences": "Experiencias",
+    "book": "Reservar",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "Descansa donde la selva se encuentra con el Caribe",
+    "subtitle": "Un hostal boutique en Buritaca para desconectar y volver a ti",
+    "location": "Hostal Buritaca - Playa del Caribe",
+    "ctaPrimary": "Reservar Ahora",
+    "ctaSecondary": "Ver Habitaciones",
+    "badge": "Mejor precio garantizado"
+  },
+  "trust": {
+    "bestPrice": "Mejor Precio Garantizado",
+    "flexibleCancellation": "Cancelación Flexible",
+    "instantConfirmation": "Confirmación Instantánea",
+    "securePayment": "Pago 100% Seguro"
+  },
+  "experiences": {
+    "title": "Nuestras Experiencias",
+    "subtitle": "Más que alojamiento, vivimos experiencias completas que conectan con la naturaleza y el bienestar",
+    "gastronomy": {
+      "title": "Gastronomía",
+      "description": "Cocina local y saludable con ingredientes frescos del Caribe"
+    },
+    "spa": {
+      "title": "Spa & Bienestar",
+      "description": "Masajes relajantes y rituales caribeños para tu bienestar"
+    },
+    "nature": {
+      "title": "Naturaleza",
+      "description": "Río Buritaca, caminatas y playas cercanas en un entorno único"
+    }
+  },
+  "rooms": {
+    "title": "Nuestras Habitaciones",
+    "subtitle": "Cada espacio está diseñado para ofrecerte comodidad, tranquilidad y una conexión única con la naturaleza",
+    "viewAll": "Ver Todas las Habitaciones",
+    "from": "Desde",
+    "perNight": "/noche",
+    "people": "personas",
+    "bed": "cama",
+    "mostPopular": "Más Popular",
+    "notAvailable": "No Disponible",
+    "compare": "Comparar",
+    "favorite": "Agregar a favoritos"
+  },
+  "testimonials": {
+    "title": "Lo que dicen nuestros huéspedes",
+    "subtitle": "Experiencias reales de viajeros que han disfrutado de nuestro hostal"
+  },
+  "location": {
+    "title": "Ubicación",
+    "subtitle": "En el corazón del Caribe colombiano, donde el río Buritaca se encuentra con el mar",
+    "address": "Dirección",
+    "addressValue": "Buritaca, Magdalena\nCaribe Colombiano",
+    "howToGet": "Cómo llegar",
+    "fromSantaMarta": "Desde Santa Marta:",
+    "fromAirport": "Desde Aeropuerto:",
+    "transport": "Transporte:",
+    "fromSantaMartaValue": "1.5 horas en carro",
+    "fromAirportValue": "2 horas en carro",
+    "transportValue": "Ofrecemos servicio de recogida",
+    "surroundings": "Alrededores",
+    "surroundingsList": [
+      "Río Buritaca (5 min caminando)",
+      "Playas del Caribe (15 min en carro)",
+      "Parque Nacional Tayrona (30 min)",
+      "Ciudad Perdida (excursiones disponibles)"
+    ]
+  },
+  "cta": {
+    "title": "¿Listo para tu próxima aventura?",
+    "subtitle": "Reserva directamente y obtén el mejor precio garantizado, cancelación flexible y confirmación instantánea",
+    "bookNow": "Reservar Ahora",
+    "viewRooms": "Ver Habitaciones"
+  },
+  "booking": {
+    "title": "Reserva tu Experiencia",
+    "subtitle": "Reserva directamente y obtén el mejor precio garantizado, cancelación flexible y confirmación instantánea",
+    "steps": {
+      "dates": "Fechas",
+      "room": "Habitación",
+      "data": "Datos",
+      "payment": "Pago"
+    },
+    "selectDates": {
+      "title": "Selecciona tus fechas",
+      "checkIn": "Fecha de llegada",
+      "checkOut": "Fecha de salida",
+      "guests": "Número de huéspedes",
+      "guestsOptions": {
+        "1": "1 huésped",
+        "2": "2 huéspedes",
+        "3": "3 huéspedes",
+        "4plus": "4+ huéspedes"
+      }
+    },
+    "selectRoom": {
+      "title": "Selecciona tu habitación",
+      "total": "Total"
+    },
+    "contactInfo": {
+      "title": "Información de contacto",
+      "fullName": "Nombre completo",
+      "email": "Email",
+      "phone": "Teléfono",
+      "comments": "Comentarios especiales (opcional)",
+      "required": "*"
+    },
+    "payment": {
+      "title": "Método de pago",
+      "summary": "Resumen de reserva",
+      "nights": "noches",
+      "acceptTerms": "Acepto los términos y condiciones",
+      "securePayment": "Pago 100% seguro y encriptado",
+      "confirm": "Confirmar Reserva",
+      "methods": {
+        "card": "Tarjeta",
+        "pse": "PSE",
+        "paypal": "PayPal",
+        "cash": "Efectivo"
+      }
+    }
+  },
+  "accommodation": {
+    "title": "Nuestro Alojamiento",
+    "subtitle": "Cada habitación está diseñada para ofrecerte una experiencia única entre la naturaleza y el confort",
+    "filters": {
+      "dates": "Fechas",
+      "guests": "Huéspedes",
+      "filters": "Filtros",
+      "maxPrice": "Precio máximo",
+      "services": "Servicios",
+      "view": "Vista",
+      "sortBy": "Ordenar por",
+      "sortOptions": {
+        "priceLow": "Precio: menor a mayor",
+        "priceHigh": "Precio: mayor a menor",
+        "popular": "Más popular",
+        "bestValue": "Mejor valor"
+      },
+      "servicesOptions": {
+        "ac": "Aire acondicionado",
+        "jacuzzi": "Jacuzzi",
+        "balcony": "Balcón"
+      },
+      "viewOptions": {
+        "river": "Vista al río",
+        "jungle": "Vista a la selva"
+      }
+    }
+  },
+  "footer": {
+    "about": "Hostal Buritaca",
+    "aboutText": "Descansa donde la selva se encuentra con el Caribe. Un hostal boutique para desconectar y volver a ti.",
+    "quickLinks": "Enlaces Rápidos",
+    "contact": "Contacto",
+    "followUs": "Síguenos",
+    "rights": "Todos los derechos reservados"
+  },
+  "whatsapp": {
+    "title": "Hostal Buritaca",
+    "available": "Disponible ahora",
+    "help": "¿Necesitas ayuda?",
+    "write": "Escribir por WhatsApp",
+    "call": "Llamar ahora"
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "subtitle": "Encuentra respuestas rápidas a las preguntas más comunes",
+    "searchPlaceholder": "Buscar preguntas...",
+    "all": "Todas",
+    "categories": {
+      "reservas": "Reservas",
+      "habitaciones": "Habitaciones",
+      "servicios": "Servicios",
+      "ubicacion": "Ubicación",
+      "politicas": "Políticas"
+    },
+    "notFound": "No se encontraron preguntas que coincidan con tu búsqueda.",
+    "contactTitle": "¿No encontraste tu respuesta?",
+    "contactText": "Estamos aquí para ayudarte. Contáctanos y responderemos todas tus preguntas.",
+    "contactButton": "Contactar Soporte",
+    "questions": {
+      "1": {
+        "question": "¿Cómo puedo hacer una reserva?",
+        "answer": "Puedes reservar directamente en nuestro sitio web usando el sistema de reservas, o contactarnos por WhatsApp, teléfono o email. El proceso es simple y rápido."
+      },
+      "2": {
+        "question": "¿Necesito pagar por adelantado?",
+        "answer": "Sí, se requiere un depósito o pago completo al momento de la reserva para confirmar tu estadía. Aceptamos tarjetas de crédito, PSE y PayPal."
+      },
+      "3": {
+        "question": "¿Puedo modificar mi reserva?",
+        "answer": "Sí, puedes modificar tu reserva hasta 48 horas antes de tu fecha de llegada sin costo adicional, sujeto a disponibilidad."
+      },
+      "4": {
+        "question": "¿Qué incluye la habitación?",
+        "answer": "Todas nuestras habitaciones incluyen ropa de cama, toallas, baño privado, WiFi gratuito y desayuno. Algunas incluyen balcón, jacuzzi o vista especial."
+      },
+      "5": {
+        "question": "¿Hay habitaciones disponibles para familias?",
+        "answer": "Sí, tenemos suites familiares que pueden acomodar hasta 6 personas. También podemos agregar camas adicionales según disponibilidad."
+      },
+      "6": {
+        "question": "¿Las habitaciones tienen aire acondicionado?",
+        "answer": "Algunas habitaciones tienen aire acondicionado y otras ventilador. Puedes verificar las características específicas de cada habitación en la página de alojamiento."
+      },
+      "7": {
+        "question": "¿Ofrecen servicio de spa?",
+        "answer": "Sí, ofrecemos servicios de spa incluyendo masajes relajantes y rituales caribeños. Puedes reservar tu sesión al hacer tu reserva o durante tu estadía."
+      },
+      "8": {
+        "question": "¿Hay WiFi disponible?",
+        "answer": "Sí, ofrecemos WiFi gratuito en todas las áreas del hostal, incluyendo habitaciones y áreas comunes."
+      },
+      "9": {
+        "question": "¿Ofrecen servicio de transporte desde el aeropuerto?",
+        "answer": "Sí, ofrecemos servicio de recogida desde el aeropuerto de Santa Marta y desde la ciudad. El costo varía según la distancia. Contáctanos para más información."
+      },
+      "10": {
+        "question": "¿Cómo llego al hostal desde Santa Marta?",
+        "answer": "Desde Santa Marta son aproximadamente 1.5 horas en carro. Puedes tomar un taxi, transporte privado o usar nuestro servicio de recogida."
+      },
+      "11": {
+        "question": "¿Qué hay cerca del hostal?",
+        "answer": "Estamos cerca del río Buritaca (5 min caminando), playas del Caribe (15 min en carro), y el Parque Nacional Tayrona (30 min). También organizamos excursiones a Ciudad Perdida."
+      },
+      "12": {
+        "question": "¿Cuál es la política de cancelación?",
+        "answer": "Ofrecemos cancelación gratuita hasta 48 horas antes de tu llegada. Entre 24-48 horas se reembolsa el 50%. Menos de 24 horas no hay reembolso."
+      },
+      "13": {
+        "question": "¿Aceptan mascotas?",
+        "answer": "Algunas habitaciones permiten mascotas con previa autorización y costo adicional. Por favor contáctanos antes de reservar."
+      },
+      "14": {
+        "question": "¿Cuál es la política de niños?",
+        "answer": "Los niños son bienvenidos. Los menores de 5 años no pagan si comparten cama con los padres. Ofrecemos camas adicionales para niños mayores."
+      }
+    }
+  },
+  "gallery": {
+    "title": "Galería",
+    "subtitle": "Descubre cada rincón de nuestro hostal boutique",
+    "categories": {
+      "all": "Todas",
+      "habitaciones": "Habitaciones",
+      "areas-comunes": "Áreas Comunes",
+      "naturaleza": "Naturaleza",
+      "gastronomia": "Gastronomía",
+      "spa": "Spa"
+    },
+    "images": {
+      "suite": "Suite Premium",
+      "deluxe": "Deluxe Room",
+      "eco": "Eco Lodge",
+      "recepcion": "Recepción",
+      "restaurante": "Restaurante",
+      "spa": "Spa & Bienestar",
+      "naturaleza": "Entorno Natural",
+      "vista": "Vista Panorámica",
+      "piscina": "Área de Piscina"
+    },
+    "of": "de"
+  },
+  "policies": {
+    "title": "Políticas y Términos",
+    "description": "Conoce nuestras políticas y términos para una estadía transparente y segura",
+    "subtitle": "Conoce nuestras políticas y términos para una estadía transparente y segura",
+    "viewDetails": "Ver detalles",
+    "questionsTitle": "¿Tienes preguntas?",
+    "questionsText": "Si tienes dudas sobre nuestras políticas, no dudes en contactarnos.",
+    "contactButton": "Contactar",
+    "back": "← Volver a Políticas",
+    "cancelacion": {
+      "title": "Política de Cancelación",
+      "flexible": "Cancelación Flexible",
+      "terms": "Términos de Cancelación",
+      "free": "Cancelación Gratuita",
+      "freeText": "Puedes cancelar tu reserva sin costo hasta 48 horas antes de tu fecha de llegada.",
+      "partial": "Cancelación Parcial",
+      "partialText": "Si cancelas entre 24-48 horas antes de tu llegada, se reembolsará el 50% del total.",
+      "noRefund": "Sin Reembolso",
+      "noRefundText": "Las cancelaciones con menos de 24 horas de anticipación no son elegibles para reembolso.",
+      "howToCancel": "Cómo Cancelar",
+      "howToCancelSteps": [
+        "Accede a tu email de confirmación",
+        "Haz clic en el enlace \"Modificar o Cancelar Reserva\"",
+        "Sigue las instrucciones para completar la cancelación",
+        "Recibirás confirmación por email"
+      ],
+      "specialCases": "Casos Especiales",
+      "specialCasesText": "En casos de emergencia médica, condiciones climáticas extremas o restricciones de viaje gubernamentales, evaluaremos cada caso individualmente. Por favor contáctanos directamente.",
+      "helpTitle": "¿Necesitas ayuda?",
+      "helpText": "Si tienes dudas sobre tu cancelación o necesitas asistencia, estamos aquí para ayudarte.",
+      "supportButton": "Contactar Soporte"
+    },
+    "privacidad": {
+      "title": "Política de Privacidad",
+      "lastUpdate": "Última actualización",
+      "intro": "En Hostal Boutique Buritaca, nos comprometemos a proteger tu privacidad y datos personales. Esta política explica cómo recopilamos, usamos y protegemos tu información.",
+      "collectTitle": "Información que Recopilamos",
+      "collectItems": [
+        "Nombre completo y datos de contacto",
+        "Información de pago (procesada de forma segura)",
+        "Preferencias de viaje y estadía",
+        "Datos de navegación y uso del sitio web"
+      ],
+      "useTitle": "Cómo Usamos tu Información",
+      "useItems": [
+        "Procesar y confirmar tus reservas",
+        "Comunicarnos contigo sobre tu estadía",
+        "Mejorar nuestros servicios",
+        "Enviar promociones (solo con tu consentimiento)"
+      ],
+      "protectionTitle": "Protección de Datos",
+      "protectionText": "Utilizamos medidas de seguridad avanzadas para proteger tu información personal, incluyendo encriptación SSL y sistemas seguros de procesamiento de pagos.",
+      "rightsTitle": "Tus Derechos",
+      "rightsText": "Tienes derecho a:",
+      "rightsItems": [
+        "Acceder a tus datos personales",
+        "Rectificar información incorrecta",
+        "Solicitar la eliminación de tus datos",
+        "Oponerte al procesamiento de tus datos"
+      ],
+      "contactTitle": "Contacto",
+      "contactText": "Para ejercer tus derechos o hacer preguntas sobre esta política, contáctanos en:",
+      "email": "Email:",
+      "phone": "Teléfono:"
+    },
+    "terminos": {
+      "title": "Términos y Condiciones",
+      "intro": "Al hacer una reserva en Hostal Boutique Buritaca, aceptas los siguientes términos y condiciones.",
+      "reservasTitle": "Reservas",
+      "reservasItems": [
+        "Las reservas están sujetas a disponibilidad",
+        "Se requiere pago completo o depósito al momento de la reserva",
+        "Las tarifas están sujetas a cambios sin previo aviso hasta la confirmación",
+        "Debes proporcionar información precisa y completa"
+      ],
+      "checkinTitle": "Check-in y Check-out",
+      "checkin": "Check-in:",
+      "checkout": "Check-out:",
+      "checkinTime": "A partir de las 3:00 PM",
+      "checkoutTime": "Hasta las 11:00 AM",
+      "checkinNote": "Check-in/out tardío sujeto a disponibilidad y puede tener costo adicional",
+      "reglasTitle": "Reglas del Hostal",
+      "reglasItems": [
+        "No se permite fumar en las habitaciones",
+        "Respeto hacia otros huéspedes y personal",
+        "El hostal no se hace responsable por objetos perdidos o robados",
+        "Se prohíbe el uso de drogas ilegales"
+      ],
+      "responsabilidadTitle": "Responsabilidad",
+      "responsabilidadText": "El hostal no se hace responsable por daños, pérdidas o lesiones que puedan ocurrir durante tu estadía, excepto en casos de negligencia comprobada del hostal."
+    },
+    "items": {
+      "cancelacion": "Política de Cancelación",
+      "privacidad": "Política de Privacidad",
+      "terminos": "Términos y Condiciones",
+      "reembolsos": "Política de Reembolsos",
+      "reglas": "Reglas del Hostal"
+    }
+  },
+  "reviews": {
+    "title": "Lo que dicen nuestros huéspedes",
+    "subtitle": "Experiencias reales de viajeros que han disfrutado de nuestro hostal",
+    "basedOn": "Basado en",
+    "reviews": "reseñas",
+    "filter": "Filtrar:",
+    "all": "Todas",
+    "allSources": "Todas las fuentes",
+    "writeGoogle": "Escribir en Google",
+    "writeBooking": "Escribir en Booking",
+    "shareTitle": "¿Te alojaste con nosotros? Comparte tu experiencia",
+    "reviewsText": {
+      "review1": "Increíble experiencia. El hostal está en un lugar mágico, rodeado de naturaleza. La atención fue excepcional y la comida deliciosa.",
+      "review2": "Perfecto para desconectar. Las habitaciones son cómodas y limpias. El personal muy amable. Definitivamente volveremos.",
+      "review3": "Muy buena experiencia en general. La ubicación es perfecta, cerca del río y la naturaleza. El desayuno excelente.",
+      "review4": "¡Lugar increíble! Las habitaciones son hermosas, la experiencia del spa fue increíble, y el personal nos hizo sentir como en casa.",
+      "review5": "Ubicación perfecta, servicio increíble y comida deliciosa. Altamente recomendado para una escapada relajante."
+    },
+    "reviewsDates": {
+      "2weeks": "Hace 2 semanas",
+      "3weeks": "Hace 3 semanas",
+      "1month": "Hace 1 mes"
+    }
+  },
+  "newsletter": {
+    "title": "¡Obtén 10% de descuento!",
+    "subtitle": "Suscríbete a nuestro newsletter y recibe ofertas exclusivas, tips de viaje y promociones especiales.",
+    "emailPlaceholder": "tu@email.com",
+    "button": "Suscribirme y Obtener Descuento",
+    "disclaimer": "Al suscribirte, aceptas recibir emails promocionales. Puedes cancelar tu suscripción en cualquier momento.",
+    "success": "¡Gracias por suscribirte! Te enviaremos nuestras mejores ofertas.",
+    "error": "Error al suscribirte. Por favor intenta de nuevo.",
+    "footerTitle": "Newsletter",
+    "footerText": "Recibe ofertas exclusivas y noticias",
+    "subscribe": "Suscribirme"
+  },
+  "bookingTabs": {
+    "cloudbeds": "Reserva Directa (Cloudbeds)",
+    "manual": "Formulario Manual"
+  },
+  "cloudbeds": {
+    "title": "Reserva Directa con Cloudbeds",
+    "alternative": "O reserva directamente aquí:",
+    "checkIn": "Llegada",
+    "checkOut": "Salida",
+    "guests": "Huéspedes",
+    "guest": "huésped",
+    "guestsPlural": "huéspedes",
+    "viewAvailability": "Ver Disponibilidad y Precios",
+    "completeDates": "Por favor completa las fechas",
+    "bestPrice": "Mejor Precio",
+    "bestPriceText": "Garantizado",
+    "securePayment": "Pago Seguro",
+    "securePaymentText": "SSL Encriptado",
+    "confirmation": "Confirmación",
+    "confirmationText": "Instantánea",
+    "configTitle": "📝 Configuración de Cloudbeds",
+    "configText": "Para activar la integración completa con Cloudbeds:",
+    "configSteps": [
+      "Crear cuenta en Cloudbeds.com",
+      "Obtener tu Property ID desde el dashboard",
+      "Configurar en next.config.js o variables de entorno",
+      "Reemplazar your-property-id en el código"
+    ]
+  }
+}
+
