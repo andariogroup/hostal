@@ -171,7 +171,7 @@ export function ReviewsSection() {
               </div>
 
               <p className="text-gray-700 mb-4 flex-1 italic">
-                "{t(`reviewsText.${review.textKey}`)}"
+                &ldquo;{t(`reviewsText.${review.textKey}`)}&rdquo;
               </p>
 
               <div className="border-t pt-4">

@@ -293,6 +293,7 @@
     "cancelacion": {
       "title": "Cancellation Policy",
       "flexible": "Flexible Cancellation",
+      "intro": "We understand that plans can change. That's why we offer a flexible cancellation policy designed to give you peace of mind and adapt to your needs.",
       "terms": "Cancellation Terms",
       "free": "Free Cancellation",
       "freeText": "You can cancel your reservation at no cost up to 48 hours before your arrival date.",

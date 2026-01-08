@@ -13,8 +13,12 @@ export function Tabs({ defaultValue, children, className = '' }: TabsProps) {
   const [activeTab, setActiveTab] = useState(defaultValue)
 
   const childrenArray = Children.toArray(children)
-  const tabsList = childrenArray.find((child: any) => child?.type?.name === 'TabsList')
-  const tabsContent = childrenArray.filter((child: any) => child?.type?.name === 'TabsContent')
+  const tabsList = childrenArray.find((child: any) => {
+    return isValidElement(child) && typeof child.type === 'function' && (child.type as any).name === 'TabsList'
+  })
+  const tabsContent = childrenArray.filter((child: any) => {
+    return isValidElement(child) && typeof child.type === 'function' && (child.type as any).name === 'TabsContent'
+  })
 
   return (
     <div className={className}>
@@ -37,11 +41,12 @@ export function TabsList({ children, activeTab, setActiveTab, className = '' }: 
   return (
     <div className={`flex bg-gray-100 rounded-lg p-1 ${className}`}>
       {Children.map(children, (child: any) => {
-        if (isValidElement(child) && child.type.name === 'TabsTrigger') {
-          return cloneElement(child, {
+        if (isValidElement(child) && typeof child.type === 'function' && (child.type as any).name === 'TabsTrigger') {
+          const childProps = child.props as { value?: string }
+          return cloneElement(child as any, {
             activeTab,
             setActiveTab,
-            isActive: child.props.value === activeTab,
+            isActive: childProps.value === activeTab,
           })
         }
         return child

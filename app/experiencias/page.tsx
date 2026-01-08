@@ -1,16 +1,8 @@
-import { ExperienceDetail } from '@/components/sections/ExperienceDetail'
-
-export const metadata = {
-  title: 'Experiencias - Hostal Boutique Buritaca',
-  description: 'Descubre nuestras experiencias únicas: gastronomía, spa y naturaleza.',
-}
+import { redirect } from 'next/navigation'
+import { defaultLocale } from '@/i18n'
 
 export default function ExperienciasPage() {
-  return (
-    <div className="pt-24">
-      <ExperienceDetail />
-    </div>
-  )
+  redirect(`/${defaultLocale}/experiencias`)
 }
 
 

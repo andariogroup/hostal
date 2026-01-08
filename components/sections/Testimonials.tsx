@@ -83,7 +83,6 @@ export function Testimonials() {
             },
           }}
           className="!pb-12"
-          lazy={true}
           watchSlidesProgress={true}
         >
           {testimonials.map((testimonial) => (
@@ -111,7 +110,7 @@ export function Testimonials() {
 
                   {/* Text */}
                   <p className="text-white/90 mb-6 flex-1 italic">
-                    "{testimonial.text}"
+                    &ldquo;{testimonial.text}&rdquo;
                   </p>
 
                   {/* Author */}
